@@ -8,6 +8,8 @@ module.exports = [
             '/senior-js/jquery/9.md',
             '/senior-js/jquery/11.md',
             '/senior-js/jquery/12.md',
+            '/senior-js/jquery/16.md',
+            '/senior-js/jquery/15.md',
         ]
     },
     {
@@ -33,7 +35,8 @@ module.exports = [
         title: 'ctf以及安全知识',
         collapsable: true,
         children: [
-            
+            '/senior-js/jquery/19.md',
+            '/senior-js/jquery/17.md',
         ]
     },
     {
@@ -41,6 +44,13 @@ module.exports = [
         collapsable: true,
         children: [
             '/senior-js/jquery/14.md',
+        ]
+    },
+    {
+        title: '操作系统',
+        collapsable: true,
+        children: [
+            '/senior-js/jquery/18.md',
         ]
     }
 ]
